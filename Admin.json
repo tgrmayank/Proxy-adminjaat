@@ -23,8 +23,8 @@
       "device_id": "5bf296e2-4209-40fd-ba2c-1b4ab01425ef",
       "expiry_date": "2026-12-31",
       "active": false,
-      "status": "inactive",
-      "created_date": "202T-01-27",
+      "status": "active",
+      "created_date": "2027-01-27",
       "max_devices": 1
     }
   ]
