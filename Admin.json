@@ -19,12 +19,12 @@
       "max_devices": 1
     },
     {
-      "key": "jaatmayank",
+      "key": "TEST-0000-DEMO-1111",
       "device_id": "5bf296e2-4209-40fd-ba2c-1b4ab01425ef",
-      "expiry_date": "2026-12-31",
-      "active": false,
+      "expiry_date": "2027-12-31",
+      "active": true,
       "status": "active",
-      "created_date": "2027-01-27",
+      "created_date": "2026-01-27",
       "max_devices": 1
     }
   ]
